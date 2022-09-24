@@ -1,0 +1,2 @@
+Sitemap: https://pierre-demessence.github.io/sitemap.xml
+Host: https://pierre-demessence.github.io
